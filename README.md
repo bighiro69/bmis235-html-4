@@ -1,6 +1,6 @@
 # HTML-4: YOUR SITE NAME
 **By:** Hiro Akin (bighiro69)
-**Live site:** YOUR LIVE LINK
+**Live site:** https://bighiro69.github.io/bmis235-html-4/
 
 ## My path
 Path 1 · By hand, and why I picked it.
